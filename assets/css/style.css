@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Open+Sans&family=Roboto&family=Yusei+Magic&display=swap');
+
+.headline {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+    text-decoration: underline;
+    text-shadow: 2px 0 2px red;
+    background: lightgrey;
+}
+
+.bucketlist {
+    font-family: 'Yusei Magic', sans-serif;
+    color: darkgray;
+    font-size: 25px;
+}
